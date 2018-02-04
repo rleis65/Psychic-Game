@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(104, 176, 218);
+    font-family: 'Unica One', cursive;
+
+   
+
+}
+
+.jumbotron {
+    opacity: 0.8;
+    background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+}
